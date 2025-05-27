@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6d5714-86e9-431b-b9db-af72bd13e9c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/HukommelsesTest$MyObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/HukommelsesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMemoryManagementExam2025/hukommelsestestjava.class" beforeDir="false" />
-    </list>
+    <list default="true" id="0e6d5714-86e9-431b-b9db-af72bd13e9c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +60,7 @@
       <recent name="C:\Users\effer\source\MemoryManagementJava\JavaMemoryManagementExam2025" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.gcCheck">
     <configuration name="HukommelsesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HukommelsesTest" />
       <module name="untitled" />
@@ -80,6 +70,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gcCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gcCheck" />
+      <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gcCheck" />
         <item itemvalue="Application.HukommelsesTest" />
       </list>
     </recent_temporary>
@@ -114,7 +112,7 @@
       <workItem from="1748310086593" duration="113000" />
       <workItem from="1748310310455" duration="310000" />
       <workItem from="1748310724691" duration="212000" />
-      <workItem from="1748310966446" duration="75000" />
+      <workItem from="1748310966446" duration="106000" />
     </task>
     <servers />
   </component>
